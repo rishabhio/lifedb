@@ -3,6 +3,6 @@ Life db is a collection of my findings from across the web about some wonderful 
 
 
 [James Altucher](https://www.quora.com/profile/James-Altucher) 
-# James Altucher is inspiration for creation of this repo. 
+## James Altucher is inspiration for creation of this repo. 
 
 
